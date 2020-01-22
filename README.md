@@ -1,4 +1,4 @@
-# Design and Applications of Embedding Records - DeepRepair
+# DeepRepair - Error detection and correction using Deep Learning
 MAIS paper 
 
 ### Description
