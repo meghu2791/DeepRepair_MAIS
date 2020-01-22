@@ -1,4 +1,4 @@
-# Design and Applications of Embedding Records
+# Design and Applications of Embedding Records - DeepRepair
 MAIS paper 
 
 ### Description
@@ -8,5 +8,4 @@ This project deals with the design and applications of algorithms to perform emb
 * Error detection
 * Imputation of missing data 
 * Error correction
-# DeepRepair_MAIS
-# DeepRepair_MAIS
+
